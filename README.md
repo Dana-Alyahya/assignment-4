@@ -38,8 +38,8 @@ assignment-3/
 │   └── styles.css            # All CSS styles
 ├── js/
 │   └── script.js             # All JavaScript functionality
-├── assets/
-│   └── images/               # Project images (external URLs used for most)
+├── presentation/
+│   └── slides.pdf/               # Project images (external URLs used for most)
 └── docs/
     ├── ai-usage-report.md    # Detailed report on AI usage
     └── technical-documentation.md  # In-depth technical details
