@@ -1,11 +1,11 @@
-# Assignment 3 - Advanced Functionality Portfolio
+# Advanced Functionality Portfolio
 
 ## Project Description
 This is the third iteration of my personal portfolio web application, focusing on implementing **Advanced Functionality** as required by Assignment 3. The goal is to expand my skills further and demonstrate stronger programming practices, building on the foundations established in Assignments 1 and 2.
 
 The application is a responsive, modern portfolio designed to showcase my projects, skills, and contact information.
 
-## New Features in Assignment 3
+## New Features
 
 This assignment introduced several key advanced features:
 
@@ -21,8 +21,8 @@ This assignment introduced several key advanced features:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url> assignment-3
-    cd assignment-3
+    git clone <your-repo-url> assignment-4
+    cd assignment-4
     ```
 2.  **Open in Browser:** Open the `index.html` file directly in your web browser. No local server is required.
 
@@ -31,7 +31,7 @@ This assignment introduced several key advanced features:
 The project maintains a clear and organized file structure:
 
 ```
-assignment-3/
+assignment-4/
 ├── README.md                  # Project overview (this file)
 ├── index.html                 # Main portfolio page
 ├── css/
